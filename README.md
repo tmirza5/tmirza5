@@ -5,12 +5,19 @@ I'm Tmirza5, developer and student based in the UK
 <h2>🚀💻 Technologies & Tools</h2>
 
 ## Languages I currently know:
+
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  
   <hr>
+  
 ## Languages I wish to learn/am learning:  
+
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  
 <hr>
+
 ## Softwares/Technologies I use:
+
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
