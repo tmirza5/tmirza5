@@ -1,16 +1,16 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Tmirza5, developer and student based in the UK
+I'm Tmirza5, developer and student based in the UK
 
 <h2>🚀💻 Technologies & Tools</h2>
 
-<h3>Languages I currently know:</h3>
+## Languages I currently know:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   <hr>
-<h3>Languages I wish to learn/am learning:</h3>  
+## Languages I wish to learn/am learning:  
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 <hr>
-<h3>Softwares/Technologies I use:</h3>
+## Softwares/Technologies I use:
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
