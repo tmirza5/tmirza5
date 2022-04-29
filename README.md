@@ -32,3 +32,7 @@ I'm Tmirza5, developer and student based in the UK
 ## ⚡ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tmirza5&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## You can check out my certifications here:
+[Certifications](https://www.credly.com/users/muhammad-mirza.0feb0502)
