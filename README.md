@@ -8,6 +8,8 @@ I'm Tmirza5, developer and student based in the UK
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tmirza5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
   <hr>
   
 ## Languages I wish to learn/am learning:  
@@ -31,7 +33,7 @@ I'm Tmirza5, developer and student based in the UK
 
 ## ⚡ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tmirza5&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Tmirza5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tmirza5&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## You can check out my certifications here:
